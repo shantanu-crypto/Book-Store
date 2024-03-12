@@ -1,7 +1,7 @@
 <div align="center">
 
-# Tourify
-   <b>Repository : </b> https://github.com/sourabh59-coder/Tourify<br><br>
+# Book Store
+   <b>Repository : </b>https://github.com/shantanu-crypto/Book-Store<br><br>
     ![book1](https://github.com/shantanu-crypto/Book-Store/assets/77162449/c2d30748-9faf-4fa3-87bc-d38556e0ddf1)
    <br><br><br>
 </div>
@@ -26,41 +26,8 @@ This is a full stack project using the technologies like ReactJS, NodeJS, Expres
 
 
 3. Updating Funtionality
+![book3](https://github.com/shantanu-crypto/Book-Store/assets/77162449/c6b36716-8209-4df7-9755-e9e4f32f546d)
 
-
-
-
-## 2. Backend
-
-1. Auth Routes:
-   - SignUp
-   - Login
-   - Password Hash (Using BCrypt)
-   - Google SignUp and SignIn
-   
-2. User Routes
-
-3. Tours Routes
-
-3. Categories Routes:
-   - Create Categories
-   - Add Categories
-   
-4. Server Checks
-![13  Server Checks](https://user-images.githubusercontent.com/77907942/211848770-19c765ad-46d7-4a9f-8068-0ef6dd960f0a.png)
-
-5. MongoBD Databases:
-   - User Databases
-![14  MongoDB Tours](https://user-images.githubusercontent.com/77907942/211848780-ca9fce37-834e-48e9-97c4-7ffed1fafdfa.png)
-   - Tour Databases
-![15  MongoBD User](https://user-images.githubusercontent.com/77907942/211848801-1abdb407-0907-4608-8921-6948762f4f64.png)
-
-6. Folder Structures:
-   - Client Side
-![16  Client Folder structures](https://user-images.githubusercontent.com/77907942/211848816-377cf82e-d0b1-4f44-a6ab-8ce6b92773f8.png)
-   - Server Side
-![17  Server folder structure](https://user-images.githubusercontent.com/77907942/211848824-cc75144e-220f-4f15-a988-4d21d5f532af.png)
-<br/>
 
 # Technologies and Packages Used
 
